@@ -59,6 +59,11 @@ The original data is tranformed into vectoring data. In Prompt Flow, `lookup` fu
 ### 2.1 Implementation of Prompt Flow for the custom AI Copilot
 ![image](https://github.com/user-attachments/assets/c04dafee-aaed-488d-9f11-0d2275c2cd4c)
 
+From the flow above, this is description of each function.
+- lookup: it searches information from indexing data from user query
+- generate_prompt_context: It combines user query and relevant data from searching function
+- Prompt_variants: Combine system prompt with the information from previous step
+- answer_the_question: All the information (user query + relevant data from indexing data + system prompt) is sent to LLM. The LLM provides the answer to user.
 
 ### 2.2 The Copilot is tested with relevant questions.
 Examples of response from Copilot (Prompt Flow). Three outputs are from three different prompts.
