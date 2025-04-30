@@ -45,6 +45,8 @@ If you cannot find the answer, say that "I cannot find information from the data
 
 ![image](https://github.com/user-attachments/assets/11934c2b-5454-4b2b-b521-c69f034bb6cb)
 
+![Test_result_02](https://github.com/user-attachments/assets/31aa3ab3-d5ad-40b4-bad9-ba940813fc5a)
+
 ![Test_result_03](https://github.com/user-attachments/assets/88d7a7ed-ca22-46fb-9b84-ae8d82809881)
 
 
