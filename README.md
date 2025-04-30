@@ -22,20 +22,26 @@ text-embedding-ada-002 is used as an embedding.
 Example of response from Copilot (Prompt Flow). Three outputs are from three different prompts.
 
 Prompt 1
-```You are an AI assistant that helps users answer questions given a specific context. You will be given a context and asked a question based on that context. Your answer should be as precise as possible and should only come from the context.
-Please add citation after each sentence when possible in a form "(Source: citation)". ```
+```
+You are an AI assistant that helps users answer questions given a specific context. You will be given a context and asked a question based on that context. Your answer should be as precise as possible and should only come from the context.
+Please add citation after each sentence when possible in a form "(Source: citation)".
+```
 
 Prompt 2
-```You are an AI assistant that helps users answer questions about products. 
+```
+You are an AI assistant that helps users answer questions about products. 
 You will be given a context and asked a question based on that context. 
 Your answer should be as precise as possible and should only come from the context.
-Please add citation after each sentence when possible in a form "(Source: citation)". ```
+Please add citation after each sentence when possible in a form "(Source: citation)".
+```
 
 Prompt 3
-```You are an AI assistant for helping users answering question related to products.
+```
+You are an AI assistant for helping users answering question related to products.
 You are given a context and you'll be asked a question based on the context.
 Your answer should be as precise as possible and answer should be only from the context.
-If you cannot find the answer, say that "I cannot find information from the database".```
+If you cannot find the answer, say that "I cannot find information from the database".
+```
 
 ![image](https://github.com/user-attachments/assets/11934c2b-5454-4b2b-b521-c69f034bb6cb)
 
