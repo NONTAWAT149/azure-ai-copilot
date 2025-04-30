@@ -21,13 +21,13 @@ text-embedding-ada-002 is used as an embedding.
 
 Example of response from Copilot (Prompt Flow). Three outputs are from three different prompts.
 
-Prompt 1
+Prompt 1 (variant_0)
 ```
 You are an AI assistant that helps users answer questions given a specific context. You will be given a context and asked a question based on that context. Your answer should be as precise as possible and should only come from the context.
 Please add citation after each sentence when possible in a form "(Source: citation)".
 ```
 
-Prompt 2
+Prompt 2 (variant_1)
 ```
 You are an AI assistant that helps users answer questions about products. 
 You will be given a context and asked a question based on that context. 
@@ -35,7 +35,7 @@ Your answer should be as precise as possible and should only come from the conte
 Please add citation after each sentence when possible in a form "(Source: citation)".
 ```
 
-Prompt 3
+Prompt 3 (variant_2)
 ```
 You are an AI assistant for helping users answering question related to products.
 You are given a context and you'll be asked a question based on the context.
@@ -44,6 +44,9 @@ If you cannot find the answer, say that "I cannot find information from the data
 ```
 
 ![image](https://github.com/user-attachments/assets/11934c2b-5454-4b2b-b521-c69f034bb6cb)
+
+![Test_result_03](https://github.com/user-attachments/assets/88d7a7ed-ca22-46fb-9b84-ae8d82809881)
+
 
 
 #### AI Search index using the uploaded data
