@@ -70,5 +70,22 @@ Examples of response from Copilot (Prompt Flow). Three outputs are from three di
 
 ## 3. Evaluation of the Copilot
 
+### 3.1 The automated evaluation of the copilot is performed with a structured dataset
+
+<ins>Evaluation of Prompt 1</ins>
+![image](https://github.com/user-attachments/assets/44f5e93a-677b-49b2-b40c-d89d1812adf8)
+
+<ins>Evaluation of Prompt 2</ins>
+![image](https://github.com/user-attachments/assets/17a8f3fc-4e5d-4852-880f-a94925a2f3e3)
+
+<ins>Evaluation of Prompt 3</ins>
+![image](https://github.com/user-attachments/assets/ce1bcfc7-119f-4a31-9cf9-7d6d68547751)
+
+
+### 3.2 Manual prompt evaluation is conducted
+
+
 
 ## 4. Deployment
+![image](https://github.com/user-attachments/assets/0c852ceb-e85b-4c74-bd85-9799b73ae791)
+
