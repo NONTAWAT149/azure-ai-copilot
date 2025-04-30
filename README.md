@@ -11,6 +11,11 @@ The copilot is implemented on Azure AI Foundry using Prompt Flow.
 ## Project Data Configuration and Preparation
 
 #### AI model is deployed within the project
+GPT-4o-mini is deployed to use as a base model.
+text-embedding-ada-002 is used as an embedding.
+
+![image](https://github.com/user-attachments/assets/34b19015-c6e1-4af3-954d-50a5ead384db)
+
 
 #### Upload and management of data in AI Studio
 
