@@ -1,4 +1,4 @@
-# azure-ai-copilot
+# Copilot with Azure AI Foundry (Implementation of PromptFlow)
 Custom Copilot with Azure AI Foundry Service | Udacity project
 
 This is a report to show information about developing copilot to support customer by asnwering questions related to product.
