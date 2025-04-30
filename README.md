@@ -8,6 +8,7 @@ The copilot is implemented on Azure AI Foundry using Prompt Flow.
 ![overview](https://github.com/user-attachments/assets/cd94fe99-ed1c-4ecf-9bee-d592b2fd2a7d)
 
 
+
 ## 1. Project Data Configuration and Preparation
 
 ### 1.1 AI model is deployed within the project
@@ -52,6 +53,7 @@ The original data is tranformed into vectoring data. In Prompt Flow, `lookup` fu
 ![image](https://github.com/user-attachments/assets/2ad149a9-4c22-4c1c-aa5f-10ba9e345bde)
 
 
+
 ## 2. Copilot App Development
 
 ### 2.1 Implementation of Prompt Flow for the custom AI Copilot
@@ -66,6 +68,7 @@ Examples of response from Copilot (Prompt Flow). Three outputs are from three di
 ![Test_result_02](https://github.com/user-attachments/assets/31aa3ab3-d5ad-40b4-bad9-ba940813fc5a)
 
 ![Test_result_03](https://github.com/user-attachments/assets/88d7a7ed-ca22-46fb-9b84-ae8d82809881)
+
 
 
 ## 3. Evaluation of the Copilot
@@ -86,6 +89,13 @@ Examples of response from Copilot (Prompt Flow). Three outputs are from three di
 
 
 
+
 ## 4. Deployment
+
+### API Endpoint 
 ![image](https://github.com/user-attachments/assets/0c852ceb-e85b-4c74-bd85-9799b73ae791)
+
+### Test of endpoint
+![image](https://github.com/user-attachments/assets/9e7919c2-a61f-41ad-9948-75beb46bf5ee)
+
 
