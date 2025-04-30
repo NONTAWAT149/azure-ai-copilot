@@ -91,6 +91,7 @@ Examples of response from Copilot (Prompt Flow). Three outputs are from three di
 
 
 ### 3.2 Manual prompt evaluation is conducted
+![image](https://github.com/user-attachments/assets/e3d62053-fcdd-4e71-aec6-d0aaef241d58)
 
 
 
