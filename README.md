@@ -19,7 +19,7 @@ text-embedding-ada-002 is used as an embedding.
 
 #### Upload and management of data in AI Studio
 
-<u>Prompt Management</u>
+<ins>Prompt Management</ins>
 
 Prompt 1 (variant_0)
 ```
@@ -43,11 +43,11 @@ Your answer should be as precise as possible and answer should be only from the 
 If you cannot find the answer, say that "I cannot find information from the database".
 ```
 
-<u>Grounded data</u>
+<ins>Grounded data</ins>
 ![image](https://github.com/user-attachments/assets/4329448f-5a9c-4260-bf33-54255aa7a6c8)
 
 
-<u>Examples of response from Copilot (Prompt Flow)</u> 
+<ins>Examples of response from Copilot (Prompt Flow)</ins>
 Three outputs are from three different prompts.
 
 ![image](https://github.com/user-attachments/assets/11934c2b-5454-4b2b-b521-c69f034bb6cb)
