@@ -92,10 +92,10 @@ Examples of response from Copilot (Prompt Flow). Three outputs are from three di
 
 ## 4. Deployment
 
-### API Endpoint 
+### 4.1 API Endpoint 
 ![image](https://github.com/user-attachments/assets/0c852ceb-e85b-4c74-bd85-9799b73ae791)
 
-### Test of endpoint
+### 4.2 Test of endpoint
 ![image](https://github.com/user-attachments/assets/9e7919c2-a61f-41ad-9948-75beb46bf5ee)
 
 
