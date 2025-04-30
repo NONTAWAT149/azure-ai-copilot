@@ -23,7 +23,7 @@ text-embedding-ada-002 is used as an embedding.
 
 
 #### AI Search index using the uploaded data
-The original data is tranformed into vectoring data. In Prompt Flow, lookup function searches relevant information from vetoring (indexing) data.
+The original data is tranformed into vectoring data. In Prompt Flow, `lookup` function searches relevant information from vetoring (indexing) data.
 
 ![image](https://github.com/user-attachments/assets/2ad149a9-4c22-4c1c-aa5f-10ba9e345bde)
 
